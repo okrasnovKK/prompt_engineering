@@ -6,7 +6,7 @@ Prompt_engineering_experiments_repository
 Эксперименты с GigaChat API, промпт-инжинирингом и RAG.
 - basic_api_call.py - базовый запрос к API
 - prompt_comparison.py - сравнение различных вариантов промптов
-- rag_prototype.py - простой RAG-пайплайн
+- rag_prototype.py - простой RAG-пайплайн, необходима корректировка кода и более тщательный разбор
 
 ## Контакты
 - Email: o.krasnov@mail.ru
